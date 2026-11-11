@@ -1,0 +1,4 @@
+interface:
+  display_name: "論文寫作工作流程"
+  short_description: "協助教育與社會科學實證論文，從研究問題、證據整理到寫作修訂與投稿準備"
+  default_prompt: "請使用 $academic-writing-workflow，依我現有的研究材料安排下一步，保留證據來源、作者決策與修改範圍。"
